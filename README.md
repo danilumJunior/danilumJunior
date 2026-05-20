@@ -1,12 +1,12 @@
 # Danilo Junior
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Danilo Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=danilumJunior&theme=tokyonight)
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
