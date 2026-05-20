@@ -32,7 +32,7 @@
       </ul>
     </td>
     <td width="40%" valign="top" style="border: none; padding-left: 30px;">
-      <h3>🛠️ Skills & Technologies</h3>
+      <h3>Skills & Technologies</h3>
       <strong>Backend & Software</strong>
       <ul>
         <li>Python | C | Java | SQL</li>
