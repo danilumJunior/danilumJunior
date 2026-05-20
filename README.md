@@ -1,8 +1,27 @@
 # Danilo Bomfim
 
+![Banner](./Danilo Junior.png)
+
 ## GitHub Stats
 
 ![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=danilumJunior&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilumJunior&layout=compact&theme=tokyonight)
+
+---
+
+## 🛠️ Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
 
 Software developer focused on building scalable web applications, automation systems and data-driven solutions using Python and modern backend technologies.
 
@@ -15,8 +34,6 @@ Currently exploring the intersection between artificial intelligence, backend ar
 ## Core Technologies
 
 ### Backend & Software Development
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilumJunior&layout=compact&theme=tokyonight)
 
 * Python
 * PostgreSQL
@@ -120,15 +137,8 @@ Currently improving knowledge in:
 
 ---
 
-## Technologies
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ## Contact
 
 GitHub:
 https://github.com/danilumJunior
+https://www.linkedin.com/in/danilo-junior-b92b9b263
