@@ -1,7 +1,5 @@
 ## GitHub Stats
 
-## GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danilumJunior&theme=tokyonight" alt="Danilo Streak Stats" />
 </p>
