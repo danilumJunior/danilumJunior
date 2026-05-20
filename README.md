@@ -1,10 +1,10 @@
-# Danilo Bomfim
+# Danilo Junior
 
-![Banner](./Danilo Junior.png)
+![Banner](./DaniloJunior.png)
 
 ## GitHub Stats
 
-![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=danilumJunior&show_icons=true&theme=tokyonight)
+![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=danilumJunior&showicons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilumJunior&layout=compact&theme=tokyonight)
 
@@ -20,6 +20,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
