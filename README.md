@@ -1,4 +1,4 @@
-# Danilo Junior
+![Banner](DaniloJunior.png)
 
 ## GitHub Stats
 
