@@ -1,10 +1,10 @@
 # Danilo Junior
 
-![Banner](./DaniloJunior.png)
-
 ## 📊 GitHub Stats
 
-![Danilo Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=danilumJunior&theme=tokyonight)
+![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=danilumJunior&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilumJunior&lay
 
 ---
 
