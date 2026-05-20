@@ -3,7 +3,6 @@
 <p align="center">
 ![Danilo Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=danilumJunior&theme=tokyonight)
 </p>
----
 
 ## Technologies
 
