@@ -1,6 +1,27 @@
-![Banner](DaniloJunior.png)
-
 ## GitHub Stats
+
+# Danilo Bomfim
+
+<table border="0" width="100%">
+  <tr>
+    <td width="55%" valign="top" style="border: none;">
+      <h3>About Me</h3>
+      <p>IT Student focusing on Back-End and Full-Stack development. Experienced in building structured systems, managing relational databases and creating automations.</p>
+      <p>Actively seeking an internship opportunity in software development.</p>
+    </td>
+    <td width="45%" valign="top" style="border: none; padding-left: 20px;">
+      <h3>Technologies</h3>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ![Danilo Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=danilumJunior&theme=tokyonight)
 
@@ -27,8 +48,6 @@ My work combines software engineering, automation and intelligent systems, with 
 Currently exploring the intersection between artificial intelligence, backend architecture and modern web development, applying these concepts to real-world systems and personal projects.
 
 ---
-
-## Core Technologies
 
 ### Backend & Software Development
 
@@ -68,8 +87,6 @@ Currently exploring the intersection between artificial intelligence, backend ar
 
 ---
 
-## Featured Projects
-
 ### Full Stack Media Review Platform
 
 Development of a complete web application featuring:
@@ -100,14 +117,6 @@ Creation of automation tools designed to optimize repetitive workflows and impro
 
 ---
 
-### AI-Powered Systems & Experiments
-
-Research and development involving artificial intelligence integrated into web systems, automation workflows and productivity-focused applications.
-
-Focused on applying AI concepts into practical software solutions and modern user experiences.
-
----
-
 ## Areas of Interest
 
 * Backend Engineering
@@ -121,21 +130,9 @@ Focused on applying AI concepts into practical software solutions and modern use
 
 ---
 
-## Current Focus
-
-Currently improving knowledge in:
-
-* scalable backend architecture;
-* modern full stack applications;
-* security and authentication;
-* cloud infrastructure;
-* AI integration in web systems;
-* software engineering best practices.
-
----
-
 ## Contact
 
 GitHub:
 https://github.com/danilumJunior
+
 https://www.linkedin.com/in/danilo-junior-b92b9b263
