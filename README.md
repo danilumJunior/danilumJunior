@@ -1,9 +1,3 @@
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danilumJunior&theme=tokyonight" alt="Danilo Streak Stats" />
-</p>
-
 ## Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
